@@ -1,0 +1,5 @@
+Line#		Required word count
+	1				4
+	2				2
+	3				0
+	4				3
