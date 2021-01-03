@@ -3,7 +3,7 @@
 *   This class prompts a number 'n' and compares two float numbers up to 'n' 
 *   decimal places.
 *
-*   Source: https://github.com/HellBlizzard0/java-begginer-programs/new/main
+*   Source: https://github.com/HellBlizzard0/java-begginer-programs/
 ********************************************************************************/
 import java.util.Scanner;
 import java.util.InputMismatchException;
