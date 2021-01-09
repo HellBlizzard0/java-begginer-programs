@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class ICS102Section {
+public class Section {
 
 	int numStudents;
 	final int MAXIMUMCAPACITY = 30;
@@ -12,7 +12,7 @@ public class ICS102Section {
 	Student[] students = new Student[MAXIMUMCAPACITY];
 	
 
-	public ICS102Section() throws IllegalArgumentException, FileNotFoundException {
+	public Section() throws IllegalArgumentException, FileNotFoundException {
 		
 		
 				// This scanner declaration + loop collects all the students' data from the input file
