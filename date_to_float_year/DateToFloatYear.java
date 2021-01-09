@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class Q2 {
+public class DateToFloatYear {
 
 	public static void main(String[] args) {
 		
