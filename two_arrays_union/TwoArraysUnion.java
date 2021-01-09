@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class Q3 {
+public class TwoArraysUnion {
 	
 	public static void main(String[] args) throws InputMismatchException{
 		
