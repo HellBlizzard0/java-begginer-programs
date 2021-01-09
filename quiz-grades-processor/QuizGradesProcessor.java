@@ -9,7 +9,7 @@ public class QuizGradesProcessor {
 		boolean loop = true;
 		Scanner k = new Scanner(System.in);
 		
-		ICS102Section sec = new ICS102Section();
+		Section sec = new Section();
 
 		do { 
 			try {
