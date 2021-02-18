@@ -20,6 +20,8 @@ This repository contains random beginner-level programs written in C++. I was ta
 * FileLinesCounter
   *  This program prompts a valid input file name. It then opens the file and counts the numbers of each line in the input file. Finally, the program outputs the results in an output.txt file.
 
+* And more...
+
 ## How to use:
 * Download a directory of a program of your choice.
 * Extract the compressed file in a directory of your choice.
